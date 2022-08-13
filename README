@@ -6,9 +6,9 @@ The project has 4 functions:
 4. Search for records by Phone Number/Name
 
 The C++ program creates "CBSEH.dat" file and uses it to store hotel records.
-
+The Source code is available in the file "hotel.cpp".
 --------------------------------------------------------------------------------------------------------------------
-The Hotel Management System Project(hotel.cpp) requires the TURBO C++ compiler inorder to compile and run.
+The Hotel Management System Project Source Code (hotel.cpp) requires the TURBO C++ compiler on the Windows Operating System inorder to compile and run.
 
 1.Install Turbo C++ Compiler
 2.Place a copy of the hotel.cpp file in the bin folder of TURBOC3
