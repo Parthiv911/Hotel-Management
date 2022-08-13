@@ -1,3 +1,12 @@
+The project has 4 functions:
+
+1. Book a Room
+2. Modify a booking
+3. Delete a booking
+4. Search for records by Phone Number/Name
+
+The C++ program creates "CBSEH.dat" file and uses it to store hotel records.
+
 --------------------------------------------------------------------------------------------------------------------
 The Hotel Management System Project(hotel.cpp) requires the TURBO C++ compiler inorder to compile and run.
 
